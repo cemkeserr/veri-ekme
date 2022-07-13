@@ -1,0 +1,15 @@
+C:\c#\vericekme10\vericekme10\obj\Debug\vericekme10.csproj.AssemblyReference.cache
+C:\c#\vericekme10\vericekme10\obj\Debug\vericekme10.csproj.SuggestedBindingRedirects.cache
+C:\c#\vericekme10\vericekme10\obj\Debug\vericekme10.Form1.resources
+C:\c#\vericekme10\vericekme10\obj\Debug\vericekme10.Properties.Resources.resources
+C:\c#\vericekme10\vericekme10\obj\Debug\vericekme10.csproj.GenerateResource.cache
+C:\c#\vericekme10\vericekme10\obj\Debug\vericekme10.csproj.CoreCompileInputs.cache
+C:\c#\vericekme10\vericekme10\bin\Debug\vericekme10.exe.config
+C:\c#\vericekme10\vericekme10\bin\Debug\vericekme10.exe
+C:\c#\vericekme10\vericekme10\bin\Debug\vericekme10.pdb
+C:\c#\vericekme10\vericekme10\bin\Debug\HtmlAgilityPack.dll
+C:\c#\vericekme10\vericekme10\bin\Debug\HtmlAgilityPack.pdb
+C:\c#\vericekme10\vericekme10\bin\Debug\HtmlAgilityPack.xml
+C:\c#\vericekme10\vericekme10\obj\Debug\vericekme10.csproj.CopyComplete
+C:\c#\vericekme10\vericekme10\obj\Debug\vericekme10.exe
+C:\c#\vericekme10\vericekme10\obj\Debug\vericekme10.pdb
